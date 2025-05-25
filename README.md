@@ -30,6 +30,11 @@ The images will be drawn exquisitely by me and I can't draw.
 
 There will be no styling because I hate css.
 
+## How to Install and Run
+
+1. Clone the repo
+2. "python main.py"
+
 Future enhancements:
 
 - programmically scrape website instead of manually creating google sheets
